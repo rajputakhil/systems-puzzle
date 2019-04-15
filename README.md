@@ -8,3 +8,6 @@
 
 2. Changed the "nginx" port from "80:8080" to "8080:80" (line # 24) in "docker-compose.yml" file
 
+
+3. postgres-data
+
